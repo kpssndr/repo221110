@@ -6,4 +6,6 @@ Tesztelési alapelvek:
 4. Hibafürtök
 5. Féregirtó paradoxon
 
+
 főág módosítja a tartalom.txt-t
+ujAg módosítja a tartalom.txt-t

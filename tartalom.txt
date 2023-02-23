@@ -7,6 +7,3 @@ Tesztelési alapelvek:
 5. Féregirtó paradoxon
 6. A tesztelés nem egyenéő a hibakereséssel
 
-
-főág módosítja a tartalom.txt-t
-ujAg módosítja a tartalom.txt-t

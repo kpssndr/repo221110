@@ -7,3 +7,4 @@ Tesztelési alapelvek:
 5. Féregirtó paradoxon
 6. A tesztelés nem egyenéő a hibakereséssel
 
+Szerver oldali változtatás

@@ -4,4 +4,6 @@ Tesztelési alapelvek:
 2. A tesztelés a hibák jelenlétét nem a hiányukat jelzi.
 3. Korai tesztelés jelentősége.
 4. Hibafürtök
-5.ddfdf
+5. Féregirtó paradoxon
+
+főág módosítja a tartalom.txt-t

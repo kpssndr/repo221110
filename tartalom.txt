@@ -5,6 +5,7 @@ Tesztelési alapelvek:
 3. Korai tesztelés jelentősége.
 4. Hibafürtök
 5. Féregirtó paradoxon
+6. A tesztelés nem egyenéő a hibakereséssel
 
 
 főág módosítja a tartalom.txt-t
